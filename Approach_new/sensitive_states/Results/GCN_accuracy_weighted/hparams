@@ -1,0 +1,60 @@
+{'score': 16.071094512939453, 'hidden_channels': 199.0, 'dropout': 0.04972592479622818, 'weight_decay': 0.049775245223980094}
+{'score': 15.674126625061035, 'hidden_channels': 223.0, 'dropout': 0.021806725855307588, 'weight_decay': 0.03952524695862215}
+{'score': 15.278197288513184, 'hidden_channels': 115.0, 'dropout': 0.031309691969907176, 'weight_decay': 0.031101179300952214}
+{'score': 15.014813423156738, 'hidden_channels': 125.0, 'dropout': 0.03804576075915019, 'weight_decay': 0.02628896839661526}
+{'score': 14.803274154663086, 'hidden_channels': 167.0, 'dropout': 0.02629508946670633, 'weight_decay': 0.02273149003436927}
+{'score': 14.51794147491455, 'hidden_channels': 123.0, 'dropout': 0.03323102934599243, 'weight_decay': 0.018658133066780838}
+{'score': 14.447333335876465, 'hidden_channels': 187.0, 'dropout': 0.03079145809958014, 'weight_decay': 0.01787888576290816}
+{'score': 14.260880470275879, 'hidden_channels': 160.0, 'dropout': 0.03781807218542804, 'weight_decay': 0.015741233120471924}
+{'score': 14.190939903259277, 'hidden_channels': 115.0, 'dropout': 0.03471043628110588, 'weight_decay': 0.014880434325620905}
+{'score': 13.959735870361328, 'hidden_channels': 100.0, 'dropout': 0.041575151716980736, 'weight_decay': 0.012394247111218597}
+{'score': 13.958574295043945, 'hidden_channels': 168.0, 'dropout': 0.010261739942008725, 'weight_decay': 0.012411093537502155}
+{'score': 13.912520408630371, 'hidden_channels': 109.0, 'dropout': 0.037681167701170915, 'weight_decay': 0.011924935712847466}
+{'score': 13.720765113830566, 'hidden_channels': 155.0, 'dropout': 0.041335530801342765, 'weight_decay': 0.01020866756221477}
+{'score': 13.610160827636719, 'hidden_channels': 190.0, 'dropout': 0.024404528383904285, 'weight_decay': 0.00927977081260337}
+{'score': 13.576651573181152, 'hidden_channels': 147.0, 'dropout': 0.03957869387012888, 'weight_decay': 0.009026934884108558}
+{'score': 13.486266136169434, 'hidden_channels': 103.0, 'dropout': 0.04255110655732759, 'weight_decay': 0.008380810263791647}
+{'score': 13.23725700378418, 'hidden_channels': 129.0, 'dropout': 0.044180186874994955, 'weight_decay': 0.006647027351473527}
+{'score': 13.170113563537598, 'hidden_channels': 153.0, 'dropout': 0.04637578144283828, 'weight_decay': 0.006249336978068294}
+{'score': 13.051847457885742, 'hidden_channels': 176.0, 'dropout': 0.04983194551530492, 'weight_decay': 0.005430730289280165}
+{'score': 13.025236129760742, 'hidden_channels': 134.0, 'dropout': 0.04580808198726728, 'weight_decay': 0.0053802797465019574}
+{'score': 12.994000434875488, 'hidden_channels': 118.0, 'dropout': 0.04510589019983919, 'weight_decay': 0.00514372666419575}
+{'score': 12.877875328063965, 'hidden_channels': 184.0, 'dropout': 0.036618037715652606, 'weight_decay': 0.004502055057741071}
+{'score': 12.64897346496582, 'hidden_channels': 247.0, 'dropout': 0.04265354623184192, 'weight_decay': 0.0034354726085143276}
+{'score': 12.24530029296875, 'hidden_channels': 145.0, 'dropout': 0.04501139525421549, 'weight_decay': 0.0016950783830981461}
+{'score': 12.241150856018066, 'hidden_channels': 135.0, 'dropout': 0.04927465486511976, 'weight_decay': 0.0016583722793362676}
+{'score': 12.224798202514648, 'hidden_channels': 143.0, 'dropout': 0.04979716211812309, 'weight_decay': 0.001577736873188346}
+{'score': 12.211955070495605, 'hidden_channels': 138.0, 'dropout': 0.04848993671536287, 'weight_decay': 0.0015280047819460402}
+{'score': 12.150932312011719, 'hidden_channels': 143.0, 'dropout': 0.049858203010093145, 'weight_decay': 0.0012107352245341314}
+{'score': 12.109886169433594, 'hidden_channels': 133.0, 'dropout': 0.045203692976431176, 'weight_decay': 0.0011139944408443266}
+{'score': 12.071531295776367, 'hidden_channels': 117.0, 'dropout': 0.04187126653074768, 'weight_decay': 0.0010058484039414035}
+{'score': 0.9401943683624268, 'hidden_channels': 125.0, 'num_layers': 1.0, 'dropout': 0.017156328832087432, 'weight_decay': 0.026737172233483594}
+{'score': 0.9299408197402954, 'hidden_channels': 127.0, 'num_layers': 1.0, 'dropout': 0.036926666151031635, 'weight_decay': 0.024033829322728933}
+{'score': 0.9174556136131287, 'hidden_channels': 150.0, 'num_layers': 1.0, 'dropout': 0.003939164298360398, 'weight_decay': 0.02100141006968265}
+{'score': 0.9047927856445312, 'hidden_channels': 147.0, 'num_layers': 1.0, 'dropout': 0.031360587100942555, 'weight_decay': 0.018343400330420534}
+{'score': 0.8986555933952332, 'hidden_channels': 110.0, 'num_layers': 3.0, 'dropout': 0.029058021723439447, 'weight_decay': 0.014725643179775242}
+{'score': 0.88679438829422, 'hidden_channels': 198.0, 'num_layers': 3.0, 'dropout': 0.0331685842052077, 'weight_decay': 0.002030862095161016}
+{'score': 0.8866283297538757, 'hidden_channels': 188.0, 'num_layers': 1.0, 'dropout': 0.04085107196899068, 'weight_decay': 0.014794993623244369}
+{'score': 0.8630508184432983, 'hidden_channels': 155.0, 'num_layers': 3.0, 'dropout': 0.036486646046584914, 'weight_decay': 0.005562785045972589}
+{'score': 0.8509904146194458, 'hidden_channels': 235.0, 'num_layers': 3.0, 'dropout': 0.0009225571828802904, 'weight_decay': 0.04712993913512046}
+{'score': 0.8365815281867981, 'hidden_channels': 101.0, 'num_layers': 2.0, 'dropout': 0.0427286546037374, 'weight_decay': 0.04762821174947293}
+{'score': 0.8160902857780457, 'hidden_channels': 181.0, 'num_layers': 3.0, 'dropout': 0.045220763345593724, 'weight_decay': 0.037869331020242876}
+{'score': 0.787170946598053, 'hidden_channels': 243.0, 'num_layers': 2.0, 'dropout': 0.002634688325050988, 'weight_decay': 0.03980229243189197}
+{'score': 0.766438364982605, 'hidden_channels': 158.0, 'num_layers': 1.0, 'dropout': 0.041477789574301496, 'weight_decay': 0.0017890328862923076}
+{'score': 0.7645429372787476, 'hidden_channels': 206.0, 'num_layers': 3.0, 'dropout': 0.022254549276884042, 'weight_decay': 0.009470728323303805}
+{'score': 0.7615653872489929, 'hidden_channels': 230.0, 'num_layers': 2.0, 'dropout': 0.024013586641058716, 'weight_decay': 0.019102636592881465}
+{'score': 0.7573180198669434, 'hidden_channels': 213.0, 'num_layers': 2.0, 'dropout': 0.02330666912994553, 'weight_decay': 0.012340036284942988}
+{'score': 0.752544105052948, 'hidden_channels': 137.0, 'num_layers': 2.0, 'dropout': 0.03896044565281225, 'weight_decay': 0.008096762289274329}
+{'score': 0.7512420415878296, 'hidden_channels': 139.0, 'num_layers': 2.0, 'dropout': 0.04419145249808369, 'weight_decay': 0.005281302287647765}
+{'score': 0.7491201758384705, 'hidden_channels': 172.0, 'num_layers': 2.0, 'dropout': 0.045147162782545255, 'weight_decay': 0.0012252260361745517}
+{'score': 0.7419621348381042, 'hidden_channels': 229.0, 'num_layers': 3.0, 'dropout': 0.0335693673736901, 'weight_decay': 0.02087691669749172}
+{'score': 0.7401705384254456, 'hidden_channels': 167.0, 'num_layers': 2.0, 'dropout': 0.04998368563145508, 'weight_decay': 0.006067030101898184}
+{'score': 0.7393972873687744, 'hidden_channels': 163.0, 'num_layers': 2.0, 'dropout': 0.038937353711887356, 'weight_decay': 0.0015639707268294781}
+{'score': 0.7311732172966003, 'hidden_channels': 212.0, 'num_layers': 2.0, 'dropout': 0.048271007990560166, 'weight_decay': 0.012255689978546366}
+{'score': 0.7300747632980347, 'hidden_channels': 183.0, 'num_layers': 2.0, 'dropout': 0.049251644547089565, 'weight_decay': 0.011367597933614661}
+{'score': 0.72866290807724, 'hidden_channels': 194.0, 'num_layers': 2.0, 'dropout': 0.044435065474542686, 'weight_decay': 0.007616544050311952}
+{'score': 0.7216965556144714, 'hidden_channels': 178.0, 'num_layers': 2.0, 'dropout': 0.04926457137559041, 'weight_decay': 0.00316189921908298}
+{'score': 0.7157793641090393, 'hidden_channels': 171.0, 'num_layers': 2.0, 'dropout': 0.04916823034008774, 'weight_decay': 0.006948097966904146}
+{'score': 0.7117329239845276, 'hidden_channels': 170.0, 'num_layers': 2.0, 'dropout': 0.040294581141461935, 'weight_decay': 0.007464052695756399}
+{'score': 0.6993391513824463, 'hidden_channels': 179.0, 'num_layers': 2.0, 'dropout': 0.0498585368668618, 'weight_decay': 0.002825927179034099}
+{'score': 0.6949023008346558, 'hidden_channels': 164.0, 'num_layers': 2.0, 'dropout': 0.041371339430251314, 'weight_decay': 0.0013162195251444696}

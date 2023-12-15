@@ -1,0 +1,6 @@
+*.json
+*.pyc
+*.pt
+__pycache__
+datasets
+**/datasets
