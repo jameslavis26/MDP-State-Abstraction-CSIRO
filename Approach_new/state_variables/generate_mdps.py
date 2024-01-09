@@ -67,14 +67,18 @@ def generate_datsets(N_sites, N_species, K, N_datasets, path='datasets', folder 
     dataset = []
     for i in tqdm(range(N_datasets)):
         pj = np.random.random() # random probability between 0 and 1
+        seed = i*(2+int(pj*100))
 
-        P, R = generate_reserve(N_sites, N_species, pj=pj, seed=i*(2+int(pj*100))) 
+        P, R, state_variables = generate_reserve(N_sites, N_species, pj=pj, seed=seed) 
 
         optimal_values, optimal_policy = valueIteration(P, R)
 
         k_states, K = aStarAbs(P, R, optimal_values, optimal_policy, K=K, precision=1e-6)
 
         data = {
+            "starting_probability": pj,
+            "random_seed": seed,
+            "state_variables": state_variables.tolist(),
             "transitions":P.tolist(),
             "rewards":R.tolist(),
             "optimal_values":optimal_values.tolist(),
